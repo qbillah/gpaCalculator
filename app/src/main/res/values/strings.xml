@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPA_01870418_Calculator</string>
+    <string name="grade_hint">Enter a grade (0-100)</string>
+</resources>
